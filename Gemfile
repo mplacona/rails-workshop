@@ -46,3 +46,6 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 end
+
+# Added at 2018-04-14 17:48:21 +0100 by mplacona:
+gem "json", "~> 1.8"
